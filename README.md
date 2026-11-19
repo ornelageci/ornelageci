@@ -46,7 +46,7 @@ I am a Computer Engineering graduate with a strong interest in software developm
 ## Professional Experience
 
 ### Marketing & Restaurant Manager
-**Valbona River Hotel** | 2025 – Present
+**Valbona River Hotel** | 2025 – 2026
 
 - Manage hotel marketing strategies and social media campaigns.
 - Coordinate restaurant operations and customer service.
@@ -79,8 +79,6 @@ Full-stack clinic management platform developed with ASP.NET and C#.
 ### Bus Station Line
 Transportation management system developed in Python.
 
-### DressByLona Website
-Responsive business website built with HTML, CSS, and JavaScript.
 
 ---
 
@@ -96,6 +94,7 @@ Responsive business website built with HTML, CSS, and JavaScript.
 ## Contact
 
 **Email:** ogeci23@epoka.edu.al
++355 68 273 3162 
 
 **GitHub:** https://github.com/ornelageci
 
