@@ -39,7 +39,37 @@ SQL: Database Design, MySQL, Microsoft SQL Server, Queries, Joins, Stored Proced
 - Microsoft SQL Server
 - Figma
 
----
+
+Projects & Software Development
+1. Valbona Hotel Reservation System
+- Developed a hotel management and reservation system using Java.
+- Implemented room booking, customer management, reservation tracking, and hotel operations.
+- Focused on improving reservation workflows and organizing hotel data.
+  
+2. Oexa Dental Clinic – Full-Stack Management Platform
+- Developed a full-stack dental clinic management platform using C#, ASP.NET Core, and MySQL.
+- Implemented patient management, appointment scheduling, dental records, and clinic administration.
+- Worked with REST APIs, Entity Framework Core, and database integration.
+  
+3. Bus Station Line – Transportation Management System
+- Developed a transportation management application using Python.
+- Implemented functionalities for managing bus schedules, routes, passenger information, and transportation operations.
+- Applied object-oriented programming and data management principles.
+  
+4. NovaBank – Banking Management API
+- Developed a banking backend API using ASP.NET Core, C#, and Microsoft SQL Server.
+- Implemented user authentication, registration, JWT authorization, and profile management.
+- Designed RESTful API endpoints and database integration.
+  
+5. Hotel & Restaurant Management System
+- Developed a web-based hotel and restaurant management platform.
+- Built the frontend and backend using web technologies and ASP.NET Core.
+- Integrated MySQL for data management and system operations.
+  
+6. Rilindi Travel Agency – Booking Website
+- Developed the frontend of a travel agency booking website.
+- Designed responsive interfaces using HTML, CSS, and JavaScript.
+- Focused on UI/UX design and user-friendly navigation.
 
 ## Professional Experience
 
@@ -60,7 +90,46 @@ SQL: Database Design, MySQL, Microsoft SQL Server, Queries, Joins, Stored Proced
 ### Freelance Web Developer
 **Rilindi Travel Agency** | 2025
 - Designed and developed the company's official website.
-- Delivered a responsive and user-friendly solution.
+- Delivered a responsive and user-friendly solution.  shot edge pjesen e ones qe jam tutu tan ne nexephal si it specialist
+
+
+
+
+
+
+
+
+
+
+
+
+Do ta shtoja si eksperiencën më të fundit dhe do ta vendosja të parën në CV, sepse lidhet drejtpërdrejt me profilin tënd në Computer Engineering.
+Professional Experience
+IT Specialist
+Nexephal Management | 2026 – Present
+- Provide technical support and troubleshoot hardware, software, and system-related issues.
+- Assist with computer setup, software installation, configuration, and driver updates.
+- Perform basic network configuration, IP addressing, and connectivity troubleshooting.
+- Support Microsoft Windows, Microsoft Office, and user account management.
+- Maintain IT equipment and ensure proper system functionality.
+- Assist with IT infrastructure maintenance and daily technical operations.
+Marketing & Restaurant Manager
+Valbona River Hotel | 2025 – 2026
+- Managed hotel marketing strategies and social media campaigns.
+- Coordinated restaurant operations and customer service.
+- Handled online reservations and guest communication.
+- Developed promotional content and digital marketing campaigns.
+Social Media Manager
+Stela Flower | 2024
+- Managed social media platforms and digital presence.
+- Designed promotional content and marketing materials.
+- Improved customer engagement through digital marketing strategies.
+Freelance Web Developer
+Rilindi Travel Agency | 2025
+- Designed and developed the company's official website.
+- Created responsive and user-friendly web interfaces.
+- Worked with HTML, CSS, and JavaScript.
+- Focused on UI/UX design and website functionality.
 
 ---
 
